@@ -31,7 +31,7 @@
 <meta name="viewport" content="width=device-width, user-scalable=no" />
 <meta name="mobile-web-app-capable" content="yes">
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png" />
-<title>Ramble - The board game</title>
+<title>Ramblee - The board game</title>
 <link rel="stylesheet" href="css/swiper.css">
 <link rel="stylesheet" href="style.css">
 <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,900" rel="stylesheet"> 
