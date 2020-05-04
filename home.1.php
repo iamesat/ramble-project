@@ -33,7 +33,7 @@
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png" />
 <title>Ramble - The board game</title>
 <link rel="stylesheet" href="css/swiper.css">
-<link rel="stylesheet" href="style.css">s
+<link rel="stylesheet" href="style.css">
 <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,900" rel="stylesheet"> 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 </head>
